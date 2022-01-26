@@ -10,4 +10,4 @@ def home(request):
 
 
 
-    return render(request, 'about-us.html')
+    return render(request, 'about-us.html') #nice 
